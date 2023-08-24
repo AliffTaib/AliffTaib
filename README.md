@@ -1,6 +1,8 @@
-# 💫 Hi there,I'm Aliff : 
+# 💫 Hi there,I'm Aliff
 My current Status,<br><br>- Learning JAVA<br>- Learning C++<br>
 
+#There's actually 8 OSI Layer,think about it.
+##EYE POWER
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
