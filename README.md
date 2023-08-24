@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm current Status,<br><br>- Learning JAVA<br>- Learning C++<br>
+My current Status,<br><br>- Learning JAVA<br>- Learning C++<br>
 
 
 # 💻 Tech Stack:
