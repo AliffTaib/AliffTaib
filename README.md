@@ -1,5 +1,5 @@
 # 💫 Hi there,I'm Aliff
-My current Status,<br><br>- Learning JAVA<br>- Learning C++<br>
+My current Status,<br><br>- Learning JAVA<br>- Learning C++<br><br>JavaScript<br><br>PHP<br>
 
 #There's actually 8 OSI Layer,think about it.
 ##EYE POWER
